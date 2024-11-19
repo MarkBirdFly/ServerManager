@@ -1,0 +1,11 @@
+{
+    "id": "servermanager",
+    "version": "1.0.0",
+    "name": "ServerManager",
+    "description": "A plugin for server management.",
+    "author": "Mark",
+    "dependencies": {
+        "mcdreforged": ">=2.13.2"
+    },
+    "achieve_name": "ServerManager"
+}
